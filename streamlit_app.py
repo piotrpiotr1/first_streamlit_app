@@ -1,3 +1,3 @@
-import strimlit
+import streamlit
 
-strimlit.title('pacz jaka apka')
+streamlit.title('pacz jaka apka')
